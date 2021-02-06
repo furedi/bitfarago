@@ -16,6 +16,6 @@ Az első Bakonyi Bitfargó Bajnokságot a Pannon Egyetem indította 2013 öszén
   
 ## Fejlesztési feladat
 
-Az elkészült tananyagok egséges szerkezetű online interaktív oktatóanyaggá (tananyag, minta-, gyakorló-, ellenőrző- tesztfeladat) alakítása.
+Az elkészült tananyagok egységes szerkezetű online interaktív oktatóanyaggá (tananyag, minta-, gyakorló-, ellenőrző- tesztfeladat) alakítása.
 
 
