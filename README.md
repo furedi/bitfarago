@@ -1,5 +1,7 @@
-# Bakony Bitfargó Bajnokság 2013-2014
+# Bakonyi Bitfargó Bajnokság 2013-2014
 [Bakonyi Bitfaragó Bajnoksághoz](https://verseny.mik.uni-pannon.hu/) írt JavaScript leckék
+
+Az első Bakonyi Bitfargó Bajnokságot a Pannon Egyetem indította 2013 öszén. Az alapvető cél a a programozás népszerűsítése a középiskolás korosztály körében, egyszerű, látványos és könnyen elérhető eszközökkel. Így esett a választás JavaScript nyelvre, illetve a webprogramozásra.
 
 * [BBB-2013 Erőgyűjtés](https://verseny2013.mik.uni-pannon.hu/index.php/bemelegites-menu-2013.html)
   * [1. rész: Kockadobástól a kockapókerig](https://verseny2013.mik.uni-pannon.hu/jsverseny/jscourse/index.php)
