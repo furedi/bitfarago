@@ -14,6 +14,6 @@
   
 ## Fejlesztési feladat
 
-Az elkészült tananyagok egséges szerkezetű online okatatóanyaggá (tananyag, minta-, gyakorló-, ellenőrző- tesztfeladat) szervezése.
+Az elkészült tananyagok egséges szerkezetű online okatatóanyaggá (tananyag, minta-, gyakorló-, ellenőrző- tesztfeladat) alakítása.
 
 
