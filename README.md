@@ -1,5 +1,5 @@
 # Bakony Bitfargó Bajnokság 2013-2014
-Bakonyi Bitfaragó Bajnoksághoz írt JavaScript leckék
+[Bakonyi Bitfaragó Bajnoksághoz](https://verseny.mik.uni-pannon.hu/) írt JavaScript leckék
 
 * [BBB-2013 Erőgyűjtés](https://verseny2013.mik.uni-pannon.hu/index.php/bemelegites-menu-2013.html)
   * [1. rész: Kockadobástól a kockapókerig](https://verseny2013.mik.uni-pannon.hu/jsverseny/jscourse/index.php)
@@ -11,3 +11,9 @@ Bakonyi Bitfaragó Bajnoksághoz írt JavaScript leckék
   * [5. rész: Vászonra fel!](https://verseny2014.mik.uni-pannon.hu/jsverseny2014/js5.php)
   * [6. rész: Képpontozó](https://verseny2014.mik.uni-pannon.hu/jsverseny2014/js6.php)
   * [7. rész: Vonalkövetés](https://verseny2014.mik.uni-pannon.hu/jsverseny2014/js7.php)
+  
+## Fejlesztési feladat
+
+Az elkészült tananyagok egséges szerkezetű online okatatóanyaggá szervezése (tananyag, minta-, gyakorló-, ellenőrző- tesztfeladat).
+
+
